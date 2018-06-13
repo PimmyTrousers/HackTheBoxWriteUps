@@ -1,2 +1,6 @@
 # HackTheBoxWriteUps
-    <script src="https://www.hackthebox.eu/badge/7603"></script>
+
+
+   | Country | Nickname | Avatar | Team | machines | challenges |
+|---------|----------|--------|------|----------|------------|
+|<img src="./pictures/america.png" height="24" width="24">|pimmytrousers|<img src="./pictures/Slideshow_avatar.png" height="24" width="24">|      |Nibbles, Chatterbox|            |

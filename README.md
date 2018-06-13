@@ -1,4 +1,4 @@
-# HackTheBoxWriteUps
+# Hack The Box Write Ups
 This repo contains write-ups for various challenges and machines for the Hack The Box platform. This platofrm has a strict anti-cheating policy so all the write-ups are password protected until they are retired from the current set. 
 
 ## Contributors

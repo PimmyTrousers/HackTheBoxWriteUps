@@ -1,3 +1,4 @@
 do_not_include*
-machines/Chatterbox/*.md
-machines/Nibbles/*.md
+!README.md
+*.md
+*.txt

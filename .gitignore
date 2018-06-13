@@ -2,3 +2,8 @@ do_not_include*
 !README.md
 *.md
 *.txt
+*.c
+*.py
+*.cpp
+*.java
+*.go

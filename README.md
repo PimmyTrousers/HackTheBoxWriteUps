@@ -5,7 +5,7 @@ This repo contains write-ups for various challenges and machines for the Hack Th
 
    | Country | Nickname | Avatar | Team | Machines | Challenges | Rank |
 |---------|----------|--------|------|----------|------------|------------|
-|<img src="./pictures/america.png" height="24" width="24">|Pimmytrousers|<img src="./pictures/Slideshow_avatar.jpg" height="42" width="42">|BitsPlz|[Nibbles](./machines/Chatterbox/chatterbox.pdf), [Chatterbox](./machines/Nibbles/nibbles.pdf), [Poison](/machines/Poison/poison.pdf), [Celestial](./machines/Celestial/celestial.pdf)|            |Hacker|
+|<img src="./pictures/america.png" height="24" width="24">|[Pimmytrousers](https://www.hackthebox.eu/profile/7603)|<img src="./pictures/Slideshow_avatar.jpg" height="42" width="42">|BitsPlz|[Nibbles](./machines/Chatterbox/chatterbox.pdf), [Chatterbox](./machines/Nibbles/nibbles.pdf), [Poison](/machines/Poison/poison.pdf), [Celestial](./machines/Celestial/celestial.pdf)|            |Hacker|
 |<img src="./pictures/america.png" height="24" width="24">|Khedron|<img src="./pictures/avatar.png" height="42" width="42">|BitsPlz|         |         |Noob|
 |<img src="./pictures/america.png" height="24" width="24">|Bagreen|<img src="./pictures/avatar_2.png" height="42" width="42">|BitsPlz|         |         |Noob|
 
